@@ -12,14 +12,19 @@ The other notebooks contain the backend logic, data model, and test cases.
 The notebooks are standard CPU-only Python code; no GPU is required.
 
 The project was developed and tested on:
+
 OS: Windows 11 (x86_64), also runs on Linux / macOS
+
 Python: 3.10+ (3.9–3.11 should work)
+
 Hardware: ≥ 8 GB RAM CPU laptop
 
 Any machine with a recent Python 3 and the packages below should be able to run the Gradio app.
 
 Required Python Packages
+
 Install these into a virtual environment or your base environment:
+
 pandas
 numpy
 matplotlib
