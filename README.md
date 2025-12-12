@@ -8,6 +8,7 @@ For grading: you only need to open and run the Finance_Management_GradioApp.ipyn
 The other notebooks contain the backend logic, data model, and test cases.
 
 1. Computing Environment / Architecture
+
 The notebooks are standard CPU-only Python code; no GPU is required.
 
 The project was developed and tested on:
